@@ -2,4 +2,4 @@
 # ссылка на видео про выполнение №4 лабораторной работы
 https://youtu.be/vaKY-zdOPI8
 # ссылка на видео по защите презентации(4 лаб. работа)
-ttps://youtu.be/-V1eXyN_4mg
+https://youtu.be/-V1eXyN_4mg
